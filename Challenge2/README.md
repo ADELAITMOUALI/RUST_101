@@ -1,7 +1,7 @@
 # Challenge 2 – Basic Arithmetic in Rust
 ## ▶️ Example Output
 
-```text
+```
 enter the first number :
 5
 enter the second number:
@@ -11,7 +11,7 @@ enter the second number:
 5 * 6 = 30
 5 / 6 = 0.8333333
 ```
-###🛠️ Concepts Used
+###  Concepts Used
 ```
 std::io for input handling
 
@@ -23,7 +23,7 @@ Type casting (i32 to f32)
 
 Basic arithmetic operations
 ```
-###🚀 How to Run
+### How to Run
 ```bash
 Copy
 Edit
