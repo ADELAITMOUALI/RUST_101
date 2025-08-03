@@ -17,9 +17,8 @@ enter your first number:
 - `std::io` for input handling
 - `parse()` for string-to-integer conversion
 - `expect()` for simple error handling
-- Type casting (`i32` to `f32`)
-- Basic arithmetic operations
-- Functions
+- `Type casting` (`i32` to `f32`)
+- `Functions`
 - `match` statement
 - `loop`
 
